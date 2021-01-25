@@ -1,0 +1,11 @@
+C:\Users\tutucoo\source\repos\HaiwellEncrypt\HaiwellEncrypt\bin\Debug\HaiwellEncrypt.exe.config
+C:\Users\tutucoo\source\repos\HaiwellEncrypt\HaiwellEncrypt\bin\Debug\HaiwellEncrypt.exe
+C:\Users\tutucoo\source\repos\HaiwellEncrypt\HaiwellEncrypt\bin\Debug\HaiwellEncrypt.pdb
+C:\Users\tutucoo\source\repos\HaiwellEncrypt\HaiwellEncrypt\bin\Debug\System.Data.SQLite.dll
+C:\Users\tutucoo\source\repos\HaiwellEncrypt\HaiwellEncrypt\bin\Debug\System.Data.SQLite.pdb
+C:\Users\tutucoo\source\repos\HaiwellEncrypt\HaiwellEncrypt\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\tutucoo\source\repos\HaiwellEncrypt\HaiwellEncrypt\obj\Debug\HaiwellEncrypt.csprojAssemblyReference.cache
+C:\Users\tutucoo\source\repos\HaiwellEncrypt\HaiwellEncrypt\obj\Debug\HaiwellEncrypt.csproj.CoreCompileInputs.cache
+C:\Users\tutucoo\source\repos\HaiwellEncrypt\HaiwellEncrypt\obj\Debug\HaiwellEncrypt.csproj.CopyComplete
+C:\Users\tutucoo\source\repos\HaiwellEncrypt\HaiwellEncrypt\obj\Debug\HaiwellEncrypt.exe
+C:\Users\tutucoo\source\repos\HaiwellEncrypt\HaiwellEncrypt\obj\Debug\HaiwellEncrypt.pdb
